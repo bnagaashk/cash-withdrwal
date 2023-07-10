@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.cashWithdrwal-CContainer {
+  background-color: #150b3e;
+  height: 70vh;
+  width: 70vh;
+  border-radius: 10px;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.profile {
+  border-radius: 80px;
+  height: 80px;
+  width: 80px;
+  border-width: 0px;
+}
+.span {
+  font-size: 20px;
+  color: #382f5a;
+}
+.name {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.top-con {
+  display: flex;
+  padding: 10px;
+}
+.heading {
+  color: #585076;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.Money {
+  color: #c7d2fe;
+  font-size: 15px;
+}
+.balance {
+  display: flex;
+  justify-content: space-around;
+}
+
+.heading2 {
+  color: #c7d2fe;
+  font-size: 15px;
+}
+.des {
+  color: #585076;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.money-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
